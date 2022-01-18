@@ -887,4 +887,9 @@ ul#pills-tab {
         background-size: 142% 67%;
         background-attachment: fixed;
     }
+
+    .banner h1 {
+        font-size: 38px;
+        font-weight: 300;
+    }
 }
