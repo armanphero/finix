@@ -882,4 +882,9 @@ ul#pills-tab {
     .apply-list {
         margin-left: 29px !important;
     }
+    .banner {
+        background: url(https://templates.envytheme.com/finix/default/assets/img/main-banner2.jpg) no-repeat center center;
+        background-size: 142% 67%;
+        background-attachment: fixed;
+    }
 }
